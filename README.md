@@ -3,10 +3,13 @@
 
 #### Load the packages we'll need for this
 
-``
+`
 library(scales)     # Adding transparency to plots
+`
+
+`
 library(tidyverse)  # Enter the tidyverse
-``
+`
 
 #### I like to start with a clean workspace
 
