@@ -77,3 +77,5 @@ Plot the group means as their respective labels
 text(data.means$x_mean, data.means$y_mean, data.means$groups, font = 2)
 axis(side = 1); axis(side = 2)
 ```
+
+![Rplot1](https://user-images.githubusercontent.com/44586553/85758003-301d5100-b6cd-11ea-8d4c-06a6fcdbc3c6.jpg)
